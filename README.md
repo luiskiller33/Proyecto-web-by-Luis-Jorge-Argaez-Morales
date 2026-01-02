@@ -63,8 +63,8 @@ Diseñado para la eficiencia operativa:
 Puedes acceder a los componentes individuales del ecosistema a través de los siguientes enlaces:
 
 1. **[Frontend Page](https://github.com/luiskiller33/frontendpage):** El portal orientado al cliente final, construido con React, Tailwind y Three.js.
-2. **[Admin Panel](https://www.google.com/search?q=https://github.com/luiskiller33/paneladminpage):** La herramienta de gestión empresarial con reportes, estadísticas y control de inventario.
-3. **[Backend Server](https://www.google.com/search?q=https://github.com/luiskiller33/backendserver):** API centralizada que gestiona la base de datos, autenticación y lógica de negocio (alojada en Render).
+2. **[Admin Panel](https://github.com/luiskiller33/paneladminpage):** La herramienta de gestión empresarial con reportes, estadísticas y control de inventario.
+3. **[Backend Server](https://github.com/luiskiller33/backendserver):** API centralizada que gestiona la base de datos, autenticación y lógica de negocio (alojada en Render).
 
 Contacto del desarrollador.
 Correo:a21203109@alumnos.uady.mx
